@@ -2,4 +2,5 @@
 
 Simple work just to improve my skills
 
-Here you can see my practise work.
+Here you can see my practise work at GitHub Pages :
+https://exhaustedd.github.io/Simple-landing-page-CSS3-HTML5/
